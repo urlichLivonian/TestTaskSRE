@@ -1,4 +1,4 @@
-﻿# DevOps junior task
+﻿# SRE test task
 
 Необходимо написать скрипт для установки этого приложения внутри виртуальной машины с ОС Windows 2012R2 и поддержания его работоспособности в будущем. Образ необходимо брать https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2012-r2
 
